@@ -1,0 +1,3 @@
+D:/CLionProjects/8/8.4/quote/cmake-build-debug/CMakeFiles/quote.dir
+D:/CLionProjects/8/8.4/quote/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CLionProjects/8/8.4/quote/cmake-build-debug/CMakeFiles/rebuild_cache.dir
